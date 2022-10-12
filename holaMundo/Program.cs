@@ -4,4 +4,5 @@ Console.WriteLine("Hola mundo");
 void probando()
 {
     Console.WriteLine("probnadoo");
+     Console.WriteLine("probnadoo22222");
 }
